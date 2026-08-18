@@ -1,23 +1,19 @@
-# Blink Eyes Documents
+# Blink Eyes
 
-Public support and privacy documents for the Blink Eyes macOS application.
+Official public website, privacy policy, and customer support resources for the Blink Eyes macOS application.
 
-## Published pages
+## Official resources
 
-When GitHub Pages is enabled from the `main` branch and repository root, the pages are served at:
+- Product website: https://ivanvigor.github.io/BlinkEyes_Docs/
+- Privacy Policy: https://ivanvigor.github.io/BlinkEyes_Docs/privacy/
+- Customer Support: https://ivanvigor.github.io/BlinkEyes_Docs/support/
 
-- `/` — product and documentation entry point
-- `/privacy/` — Privacy Policy
-- `/support/` — support and troubleshooting
+## Product principles
 
-The site is plain static HTML and CSS. It contains no JavaScript, analytics, cookies, remote fonts, or tracking resources.
+Blink Eyes is a macOS wellness reminder designed to support healthier screen habits. Camera analysis is performed locally on the user's Mac. The application has no account system, advertising, analytics, cloud processing, or remote API dependency.
 
-## Publishing on GitHub Pages
+## Contact
 
-1. Keep this repository public.
-2. Open **Settings → Pages** in GitHub.
-3. Select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-4. Wait for GitHub to show the published HTTPS address.
-5. Add `/privacy/` as the Privacy Policy URL and `/support/` as the Support URL in App Store Connect.
+Customer support and privacy contact: [obsidian.product.ai@gmail.com](mailto:obsidian.product.ai@gmail.com)
 
-Before App Store submission, verify the real publisher name, business address requirements, and consumer/privacy obligations with qualified legal advice for every territory where Blink Eyes is sold.
+Blink Eyes is a personal wellness product and is not a medical device.
