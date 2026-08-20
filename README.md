@@ -10,10 +10,10 @@ Official public website, privacy policy, and customer support resources for the 
 
 ## Product principles
 
-Blink Eyes is a macOS wellness reminder designed to support healthier screen habits. Camera analysis is performed locally on the user's Mac. The application has no account system, advertising, analytics, cloud processing, or remote API dependency.
+Blink Eyes is a local macOS productivity reminder for blink timing and screen-break cues. Camera analysis is performed locally on the user's Mac. The application has no account system, advertising, analytics, cloud processing, or remote API dependency.
 
 ## Contact
 
 Customer support and privacy contact: [obsidian.product.ai@gmail.com](mailto:obsidian.product.ai@gmail.com)
 
-Blink Eyes is a personal wellness product and is not a medical device.
+Blink Eyes is not intended for medical use. Blink-rate results are estimates, not health measurements.
